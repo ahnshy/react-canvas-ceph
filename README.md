@@ -1,6 +1,11 @@
 # Web cephalo analysis service
  It is a Mock-up software for orthodontic analysis function for dental.
-<br/><br/><br/>
+
+> [Notice]<br/>
+>
+> This project will be converted and developed from React.js to Vue.js<br/>
+> So there will be no further feature upgrades to React.js<br/>
+<br/><br/>
 
 ## 📢 [Overview] 
 - Cephalo analytical prototypes
