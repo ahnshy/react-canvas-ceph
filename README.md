@@ -5,6 +5,11 @@
 ## 📢 [Overview] 
 - Cephalo analytical prototypes
 - demo : https://radiology-one.vercel.app/
+<br/><br/>
+
+## 🛠️ [Stacks]
+<img src="https://img.shields.io/badge/React.js-%2320232a.svg?&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white" />
+<br/><br/>
   
 ![image](https://github.com/user-attachments/assets/2e240868-515a-4e1b-965d-1daa2d70ae71)
 <br/><br/>
@@ -19,8 +24,7 @@
 [![V-Ceph v8.5 Software](https://img.youtube.com/vi/sYfT_KT9D3k/0.jpg)](https://youtu.be/sYfT_KT9D3k?t=0s)
 <br/>
 
-## 🛠️ [Stacks and Technologies]
-<img src="https://img.shields.io/badge/React.js-%2320232a.svg?&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white" />
+## 🛠️ [Technologies]
 - **"React18.js"**: used for implementation as a framework for single-page applications(SPA).
 - **"HTML5 canvas graphics"**: Allows dynamic rendering of two-dimensional shapes and scriptable bitmap plots as part of HTML5.
 <br/><br/>
